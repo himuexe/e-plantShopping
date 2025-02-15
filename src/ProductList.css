@@ -85,6 +85,12 @@ body {
     font-weight: bold;
     margin-bottom: 10px;
 }
+.cart-quantity {
+    position: absolute;
+    color: white;
+    right: 2rem;
+    text-align: center;
+  }
 
 .product-price {
     color: #e74c3c;
