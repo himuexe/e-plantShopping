@@ -81,6 +81,10 @@ body {
     z-index: 1;
 }
 
+.product-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
 .product-title {
     font-weight: bold;
     margin-bottom: 10px;
